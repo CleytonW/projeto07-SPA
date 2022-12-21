@@ -1,0 +1,23 @@
+{
+  "name": "projeto07-spa",
+  "version": "1.0.0",
+  "description": "Nesse modulo trabalhamos conceitos de SPA, eventos no JavaScript, assincronismo, promises, conceitos de POO como classes, herança e polimorfismo. Conceitos sobre imutabilidade, tratar erros da aplicação utilizando métodos try, catch e throw, trabalharemos com localStorage, consumiremos API do Github.",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CleytonW/projeto07-SPA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CleytonW/projeto07-SPA/issues"
+  },
+  "homepage": "https://github.com/CleytonW/projeto07-SPA#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
